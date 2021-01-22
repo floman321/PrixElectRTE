@@ -14,3 +14,7 @@ Voici le tutorial pour se connecter au api de rte
 https://data.rte-france.com/group/guest/apps
 
 5. Utilise code Php au dessus avec votre token base64
+
+
+
+Astuce : Récuperer le graph 1 fois par jour à 14h pour avoir le jour suivant
